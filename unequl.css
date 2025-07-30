@@ -1,0 +1,15 @@
+.col-sm-4{
+border: 5px solid rgb(30, 32, 187);
+}
+
+.col-sm-8{
+border: 5px solid rgba(209, 25, 178, 0.966);
+}
+
+.col-sm-2{
+    border: 5px solid rgba(25, 157, 209, 0.966);
+}
+
+.col-sm-6{
+    border: 5px solid rgba(105, 25, 209, 0.966);
+}
